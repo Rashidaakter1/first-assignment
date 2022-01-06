@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
-    margin: 0;
+    margin:0;
 }
 h1{
     font-size: 36px;
@@ -39,6 +39,28 @@ span{
 .second{
     text-align: center;
 }
+.second-part{
+    display: flex;
+    margin-bottom: 100px;
+    width: 50%;
+    padding-left: 15%;
+    margin-left:10%;
+}
+#background-color{
+    background-color:skyblue ;
+    padding: 5%;
+}
+#background-color-two{
+    background-color: wheat;
+    padding: 5%;
+}
+#background-color-three{
+    background-color: thistle;
+    padding: 5%;
+}
+.second-part img{
+    width: 100%;
+}
 .second-paragraph{
     text-align: left;
     width: 40%;
@@ -55,9 +77,10 @@ span{
 }
 .third-para{
     width: 100%;
+    padding-left: 20%;
 }
 #fourth-image{
-    padding-right:7%;
+    
 }
 .five-para{
 padding-left: 10%;
